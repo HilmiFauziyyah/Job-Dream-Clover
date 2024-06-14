@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777427744597",
+    "project_id": "job-dream",
+    "storage_bucket": "job-dream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777427744597:android:e077f410454ea68cc0e1dc",
+        "android_client_info": {
+          "package_name": "com.example.job_dream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC6VTX4O39wWswkHzmQuADwk3z3DvcR-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
